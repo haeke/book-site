@@ -4,7 +4,7 @@ The motivation for this repository is to create components in React. Practice ha
 
 This project lets you add and remove books. It uses local storage for keeping the booklist that you have entered the next time you visit the site or if you refresh your browser.
 
-URL - https://haeke.github.io/book-site
+URL - https://haeke.github.io/book-site/
 
 # Usage 
 1. This project was created using Create-react-app. If you want to run a local copy of this project just clone the respository. Then run npm install and npm run.
