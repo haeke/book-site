@@ -7,7 +7,7 @@ This project lets you add and remove books. It uses local storage for keeping th
 URL - https://haeke.github.io/book-site/
 
 # Usage 
-1. This project was created using Create-react-app. If you want to run a local copy of this project just clone the respository. Then run npm install and npm run.
+This project was created using Create-react-app. If you want to run a local copy of this project just clone the respository. Then run npm install and npm run.
   - Dependencies - npm, create-react-app
   - Language used - JavaScript
   - Library used - React
